@@ -1,4 +1,4 @@
-# Airbnb Berlin — Predicción de precios
+# Airbnb Berlín — Predicción de precios
 
 Pipeline completo de machine learning para predecir el precio de alojamientos en Airbnb Berlín, desde la limpieza de datos hasta un dashboard interactivo en Power BI.
 
